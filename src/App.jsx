@@ -1,9 +1,8 @@
 function App() {
   return (
     <>
-      <h1>Angie Hong</h1>
+      <h1>Angie </h1>
       <h2>Software Developer</h2>
-    
     </>
   )
 }
